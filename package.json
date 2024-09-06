@@ -9,6 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@libsql/client": "^0.10.0",
+    "@op-engineering/op-sqlite": "^7.3.0",
     "expo": "~51.0.28",
     "expo-location": "^17.0.1",
     "expo-status-bar": "~1.12.1",
